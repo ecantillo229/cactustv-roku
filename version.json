@@ -1,13 +1,13 @@
 {
-  "versionCode": 29,
-  "versionName": "2.0",
+  "versionCode": 30,
+  "versionName": "2.1",
   "history": [
     {
-      "versionCode": 29,
-      "versionName": "2.0",
+      "versionCode": 30,
+      "versionName": "2.1",
       "changes": [
         "Esta versión de CactusNet TV llegó a su fin y muy pronto dejará de mostrar tus canales.",
-        "Instala ya la 2.0 para no quedarte sin televisión."
+        "Instala ya CactusNet 2.1 para no quedarte sin televisión."
       ]
     }
   ]
